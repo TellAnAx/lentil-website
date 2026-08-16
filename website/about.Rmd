@@ -1,0 +1,20 @@
+---
+title: "About the project"
+---
+
+### Authors
+
+- Anıl Axel Tellbüscher, [University of South Bohemia in České Budějovice](https://www.jcu.cz/en/)
+- Ghasem Rashidian, [University of South Bohemia in České Budějovice](https://www.jcu.cz/en/)
+
+
+
+### Contributing
+
+You can contribute to this project via the dedicated [GitHub repository](https://github.com/TellAnAx/lentil).
+
+
+
+### License
+
+This project is licensed under GNU General Public License v3.

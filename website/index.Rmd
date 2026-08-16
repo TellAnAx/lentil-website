@@ -1,0 +1,16 @@
+---
+title: "LENTic InLand waterbodies"
+---
+
+Welcome to the website of **LENTIL**, the database providing persistent identifiers for freshwater bodies around the world!
+
+
+### Waterbodies Explorer
+
+```{r app, include=FALSE}
+knitr::include_app(
+  "https://danielrivera1.shinyapps.io/Regression2/", 
+  height = "600px"
+  )
+```
+
