@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Explorer"
+      href: https://danielrivera1.shinyapps.io/Regression2/
     - text: "About"
       href: about.html
       

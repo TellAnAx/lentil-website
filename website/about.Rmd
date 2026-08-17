@@ -4,8 +4,8 @@ title: "About the project"
 
 ### Authors
 
-- Anıl Axel Tellbüscher, [University of South Bohemia in České Budějovice](https://www.jcu.cz/en/)
-- Ghasem Rashidian, [University of South Bohemia in České Budějovice](https://www.jcu.cz/en/)
+- [Anıl Axel Tellbüscher](mailto:atellbuscher@frov.jcu.cz), [University of South Bohemia in České Budějovice](https://www.jcu.cz/en/)
+- [Ghasem Rashidian](mailto:grashidian@frov.jcu.cz), [University of South Bohemia in České Budějovice](https://www.jcu.cz/en/)
 
 
 
