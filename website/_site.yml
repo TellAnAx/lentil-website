@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Explorer"
-      href: https://danielrivera1.shinyapps.io/Regression2/
+      href: https://01a0e7ee-a31d-ec8b-6c20-75c4aa2996cc.share.connect.posit.cloud/
     - text: "About"
       href: about.html
       

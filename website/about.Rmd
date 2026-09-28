@@ -2,6 +2,26 @@
 title: "About the project"
 ---
 
+### Data Sources
+
+**Database**
+
+|Layer              |Source
+|-------------------|--------------------------|
+|Waterbodies        |[OpenStreetMap](https://wiki.openstreetmap.org/wiki/Planet.osm#Planet.osm_mirrors)
+
+
+
+**App**
+
+|Layer              |Source
+|-------------------|--------------------------|
+|Base map           |
+|Country polygons   |
+|Waterbody polygons |[OpenStreetMap](https://wiki.openstreetmap.org/wiki/Planet.osm#Planet.osm_mirrors)
+
+
+
 ### Authors
 
 - [Anıl Axel Tellbüscher](mailto:atellbuscher@frov.jcu.cz), [University of South Bohemia in České Budějovice](https://www.jcu.cz/en/)

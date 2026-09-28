@@ -1,16 +1,16 @@
 ---
-title: "LENTic InLand waterbodies"
+title: "Welcome to LENTIL"
 ---
 
-Welcome to the website of **LENTIL**, the database providing persistent identifiers for freshwater bodies around the world!
+This is the website of **LENTIL**, the database for **LENT**ic **I**n**L**and waterbodies around the world!
 
 
-### Waterbodies Explorer
+### The idea behind LENTIL
 
-```{r app, include=FALSE}
-knitr::include_app(
-  "https://danielrivera1.shinyapps.io/Regression2/", 
-  height = "600px"
-  )
-```
+LENTIL provides a database containing the **wID**, a persistent identifier (PID) for freshwater bodies around the world. LENTIL is inspired by frameworks such as [DOI](https://www.doi.org/) and [ORCiD](https://orcid.org/), which serve the unique identification of objects and researchers, respectively.
+
+
+### Background
+
+Freshwater ecosystems are among the most intensively studied environments on Earth, yet the record of any single lake, pond or reservoir is scattered across monitoring programmes, research projects, government agencies, biodiversity repositories and remote-sensing products. Some of this data is digital, deposited in repositories or reachable through APIs. Yet, with different identifiers, and names in different languages, there is no easy way to work with data from different sources. A unified framework that helps connecting the dots is lacking.
 
